@@ -14,7 +14,6 @@ This repository documents my **Data Analyst Internship** experience with **The S
 - [Task 6: Prediction using Decision Tree Algorithm (Classification)](#task-6-prediction-using-decision-tree-algorithm-classification)
 - [How to Run (Reproducibility Guide)](#how-to-run-reproducibility-guide)
 - [Certificate](#certificate)
-- [Contact](#contact)
 
 ---
 
@@ -154,6 +153,9 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 - Train DecisionTreeClassifier
 - Evaluate using confusion matrix and classification report
 
-Certificate
+## Certificate
 
-assets/certificate.png
+![Internship Completion Certificate](assets/certificate.png)
+
+**Certificate text:
+“The Sparks Foundation” — Apr 01, 2022**
